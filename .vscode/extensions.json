@@ -1,5 +1,6 @@
 {
   "recommendations": [
-    "vsciot-vscode.vscode-arduino"
+    "vsciot-vscode.vscode-arduino",
+    "wokwi.wokwi-vscode"
   ]
 }
