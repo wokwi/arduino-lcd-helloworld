@@ -7,7 +7,7 @@ This is a simple example of using an LCD1602 display with an Arduino Uno in Wokw
 You can compile this project using the [official Arduino CLI](https://arduino.github.io/arduino-cli/installation/):
 
 ```bash
-arduino-cli compile -b arduino:avr:uno -e
+arduino-cli compile -e
 ```
 
 ## Simulate

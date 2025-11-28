@@ -1,0 +1,7 @@
+profiles:
+  default:
+    fqbn: arduino:avr:uno
+    platforms:
+      - platform: arduino:avr (1.8.6)
+
+default_profile: default
